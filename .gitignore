@@ -1,6 +1,0 @@
-#!/bin/bash
-# Ignore data folder
-/data/
-# Except data download script
-!/data/ds003775-1.2.1.sh
-
